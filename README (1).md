@@ -47,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use the 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
 - Your Name : [Bhumi Sarkar](www.linkedin.com/in/bhumisarkar005)
-- Email: [sharmaalok02gwl@gmail.com](mailto:bhumi.sarkar129@gmail.com)
+- Email:(mailto: bhumi.sarkar129@gmail.com)
 
 ---
 
