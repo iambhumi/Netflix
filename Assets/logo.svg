@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="82" viewBox="0 0 300 82">
+  <path fill="#E50914" d="M0,0 L50,0 L50,82 L0,82 Z M51,0 L101,0 L101,82 L51,82 Z" />
+  <text x="110" y="60" fill="#E50914" font-family="Arial Black" font-size="60">NETFLIX</text>
+</svg>
