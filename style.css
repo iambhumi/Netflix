@@ -30,8 +30,11 @@ nav {
 }
 
 .logo {
-    width: 150px;
+    width: 130px;
+    height: auto;
     cursor: pointer;
+    object-fit: contain;
+    margin-top: 5px;
 }
 
 nav button {
